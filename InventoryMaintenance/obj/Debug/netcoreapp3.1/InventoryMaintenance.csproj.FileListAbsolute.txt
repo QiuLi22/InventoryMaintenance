@@ -1,0 +1,17 @@
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.AssemblyReference.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmInvMaint.resources
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmNewItem.resources
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfoInputs.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfo.cs
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.exe
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.deps.json
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.json
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.dev.json
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.dll
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.dll
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.genruntimeconfig.cache
